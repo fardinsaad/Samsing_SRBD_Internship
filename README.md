@@ -1,5 +1,8 @@
 # Summary of My Internship at Samsung R&D Institute Bangladesh (SRBD)
-![Programming Language](https://img.shields.io/badge/Programming%20Language-Python-blue)
+![Static Badge](https://img.shields.io/badge/Programming%20Language-Java-Black?style=for-the-badge&logo=Android&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Android_Application_Development-purple?style=for-the-badge&logo=Android&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/PocketSphinx-orange?style=for-the-badge)
+
 
 During my two-month internship at **Samsung R&D Institute Bangladesh (SRBD)**, from **November 18, 2018**, I was part of the **Mobile Application 2 Group**, under the supervision of **M. Shaykat Shuva** and **Faisal Khan**, along with guidance from **Arnab Sen Sharma** and **Maruf Ahmed Mridul**. My main project involved working on a **Robot Project**, focusing on various modules related to **Android Studio** and **Continuous Speech Recognition**. Here’s a breakdown of the key work I accomplished:
 
