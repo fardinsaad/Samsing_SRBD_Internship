@@ -9,6 +9,8 @@ During my two-month internship at **Samsung R&D Institute Bangladesh (SRBD)**, f
 - Built a custom **Continuous Speech Recognition App** using the PocketSphinx library, recognizing multiple commands like "start," "stop," "capture," "playback," and "baby cry."
 - I faced challenges with **accuracy (57.85%)** due to limitations of PocketSphinx and began exploring **Acoustic Model Adaptation** to improve recognition performance.
 
+![Framework][Images/image1.JPG]
+
 ### 2. Testing and Debugging
 - I was responsible for **testing, debugging, and optimizing** a Continuous Speech Application provided by the project developer, which relied on server-based recognition instead of PocketSphinx.
 - After testing with a paragraph of 117 words, I achieved an accuracy of **94.01%**.
@@ -26,6 +28,8 @@ During my two-month internship at **Samsung R&D Institute Bangladesh (SRBD)**, f
 - I created a dataset of **108 audio files** each for "baby cry," "baby laugh," "noise," and "silence" to aid in the development of the **Baby Cry Detection App**.
 - I implemented a **dynamic list** that displayed predicted inputs like "baby cry" and "baby laugh" in color-coded text (e.g., red for "baby cry").
 - I studied **Mel Frequency Cepstral Coefficients (MFCC)** to improve feature extraction and detection accuracy, and presented my findings to the main developer.
+
+![Overview][Images/image2.JPG]
 
 ## Conclusion
 Throughout the internship, I gained valuable experience in **Android development**, **speech recognition technologies**, and **application development**. I demonstrated problem-solving skills, especially in debugging and optimizing apps, and contributed significantly to multiple project modules. I also received continuous support and guidance from my supervisors and mentors, helping me grow both technically and professionally.
